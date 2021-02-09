@@ -1,0 +1,22 @@
+
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.input-box {
+    display: none;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    right: 50px;
+}
+
+.active {
+    display: block;
+}
+
+body {
+    position: relative;
+}
